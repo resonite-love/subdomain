@@ -1,4 +1,5 @@
 # subdomain
+{hogehoge}.resonite.love
 
 ## Description
 Resoniteのユーザであれば、誰でも自由にサブドメインを取得できるように開放しています。
