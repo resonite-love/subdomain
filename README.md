@@ -29,7 +29,9 @@ You may freely acquire a subdomain as long as you observe the following
 1. このリポジトリをフォークしてください。
 2. フォークしたリポジトリのドメインディレクトリに、サブドメインと同じ名前のファイルを作成してください。
 3. ファイルの中に ResoniteのID、サブドメインの説明、Botから送信されたメッセージのコードを書いてください。
+4. Pull Requestを送ってください。
 ### en
 1. Fork this repository. 
 2. create a file in the domain directory of the forked repository with the same name as the subdomain.
 3. in the file, write Resonite's ID, a description of the subdomain, and the code for the message sent by the bot.
+4. Send a Pull Request.
