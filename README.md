@@ -32,6 +32,6 @@ You may freely acquire a subdomain as long as you abide by the following terms:
 4. Pull Requestを送ってください。
 ### en
 1. Fork this repository. 
-2. create a file in the domain directory of the forked repository with the same name as the subdomain.
-3. in the file, write your Resonite user ID, a description of the subdomain, and the code for the message sent by the bot.
+2. Create a file in the domain directory of the forked repository with the same name as the subdomain.
+3. In the file, write your Resonite user ID, a description of the subdomain, and the code for the message sent by the bot.
 4. Send a pull request.
